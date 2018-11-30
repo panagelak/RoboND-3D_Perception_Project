@@ -1,0 +1,24 @@
+object_list:
+- arm_name: right
+  object_name: biscuits
+  pick_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0.599547266960144
+      y: 0.0011479227105155587
+      z: 0.7949708104133606
+  place_pose:
+    orientation:
+      w: 0.0
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    position:
+      x: 0.0
+      y: -0.8040123752201872
+      z: 0.5479627438755837
+  test_scene_num: 4

@@ -1,0 +1,8 @@
+prefix=/home/robond/catkin_ws/install
+
+Name: sensor_stick
+Description: Description of sensor_stick
+Version: 0.0.0
+Cflags: -I/home/robond/catkin_ws/install/include
+Libs: -L/home/robond/catkin_ws/install/lib 
+Requires: message_runtime
